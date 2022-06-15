@@ -22,7 +22,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>PhilippeRG.V03</groupId>
+            <groupId>PhilippeRG.V05</groupId>
             <artifactId>donnees</artifactId>
             <version>1</version>
         </dependency>
